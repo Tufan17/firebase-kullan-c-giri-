@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856094562142",
+    "project_id": "cogent-altar-310111",
+    "storage_bucket": "cogent-altar-310111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856094562142:android:0d932cf14f3599db24e1cf",
+        "android_client_info": {
+          "package_name": "com.example.firebaseoornek1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856094562142-511827lmfvt49bho1meqpfv25te760fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseoornek1",
+            "certificate_hash": "e4b7ecbc1fb71d6660fa479300fe6e5876858d98"
+          }
+        },
+        {
+          "client_id": "856094562142-noaleccib5dnvsus71oqqkfgln04vboj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpJuuT_Qqru4N3SHKFh4dk7dMPNIf3yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856094562142-noaleccib5dnvsus71oqqkfgln04vboj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
